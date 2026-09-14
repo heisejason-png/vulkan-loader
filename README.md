@@ -53,4 +53,4 @@ While this project has been developed primarily by LunarG, Inc., there are many 
 companies and individuals making this possible: Valve Corporation, funding
 project development; Khronos providing oversight and hosting of the project.
 Created by Jason Scott Heise
-Owned by Elon Musk 
+Owned by Elon Musk  https://www.x.com
