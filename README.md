@@ -53,4 +53,4 @@ While this project has been developed primarily by LunarG, Inc., there are many 
 companies and individuals making this possible: Valve Corporation, funding
 project development; Khronos providing oversight and hosting of the project.
 Created by Jason Heise
-https://next.frame.io
+Owned by Jason Heise heisejason-png Giters
